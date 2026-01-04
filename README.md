@@ -31,6 +31,13 @@ The goal is to identify skill-first hiring signals using real-world data.
 - Learning demand often precedes hiring interest
 - Indicates a shift toward skill-first hiring
 
+## Why This Project Matters
+
+Rather than focusing only on job titles, this analysis highlights how
+skill demand (AI tools, ML learning) evolves relative to hiring interest.
+Such signals can help organizations, educators, and job seekers
+anticipate market shifts earlier.
+
 ## Limitations
 - Google Trends data is sampled and normalized
 - Search interest does not equal hiring volume
